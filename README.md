@@ -8,4 +8,4 @@ Teleco Game is a fast-paced game where the objective is to get the high score by
 
 <img alt ="teleco-game-menu-img" src=Assets/teleco-game-menu.png width="25%"> <img alt ="teleco-game-menu-img" src=Assets/teleco-game.png width="25%">
 
-[Click me to check the game!](https://ezoostudio.itch.io/teleco-game)
+[**CHECK IT OUT!**](https://ezoostudio.itch.io/teleco-game)
