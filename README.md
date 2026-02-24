@@ -1,3 +1,4 @@
 # Hi, i'm Enzo! 👋
 
- ### I'm currently learning **Unity** and **C#**!
+### I'm currently learning **Unity** and **C#**!
+![unity-icon](Assets/unity-icon.png.png) ![csharp-icon](Assets/csharp-icon.png.png)
